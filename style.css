@@ -1,0 +1,83 @@
+*{
+    align-items: center;
+    justify-content: center;
+}
+
+.main {
+    width: 70%;
+    height:70%;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+    border: 1px solid black;
+    padding: 20px 20px 20px 20px;
+    line-height: 25px;
+    background-image:radial-gradient(cyan,black)
+}
+.on{
+    font-size: 60px;
+    text-align: center;
+    text-shadow:3px 3px 3px black;
+    
+}
+
+.is{
+    justify-content: center;
+    align-items: center;
+}
+.main p {
+    font-style: italic;
+    text-align: justify;
+
+    line-height: 30px;
+    width:70%;
+    font-size: 20px;
+}
+#so{
+    font-size: 25px;
+    font-style: oblique;
+    width:70%;
+}
+
+.main hr {
+    margin-bottom: 50px;
+}
+
+.details {
+    float: left;
+    
+}
+
+.we{
+    font-size: 40px;
+}
+
+.main table {
+    width: 70%;
+    font-style: italic;
+}
+
+    .main table tr td {
+        padding: 10px 10px 10px 10px;
+        width: 70%;
+        font-style: italic;
+        font-size: 20px;
+        table-layout: auto;
+        
+    }
+
+.main h2 {
+    text-decoration: underline;
+    font-size:30px;
+}
+
+.main ol li {
+    list-style-type: circle;
+    font-style: italic;
+    font-size:20px;
+    margin-top:30px;
+    margin-bottom: 15px;
+}
